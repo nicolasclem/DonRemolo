@@ -7,6 +7,7 @@
     "nodemon":"nodemon ./bin/www"
   },
   "dependencies": {
+    "@faker-js/faker": "^7.4.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
@@ -19,5 +20,6 @@
   "devDependencies": {
     "nodemon": "^2.0.19",
     "sequelize-cli": "^6.2.0"
+
   }
 }
