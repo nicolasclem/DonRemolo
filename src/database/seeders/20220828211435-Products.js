@@ -10,6 +10,7 @@ module.exports = {
       image: 'https://busytoddler.com/wp-content/uploads/2020/03/bigkid-activities.jpg',
       price: 500,
       categorie_id:1,
+      order_id:1,
       createdAt: new Date,
       updatedAt: new Date
     },{
@@ -18,6 +19,7 @@ module.exports = {
       image: 'https://busytoddler.com/wp-content/uploads/2020/03/bigkid-activities.jpg',
       price: 400,
       categorie_id:1,
+      order_id:2,
       createdAt: new Date,
       updatedAt: new Date
     },
@@ -27,6 +29,7 @@ module.exports = {
       image: 'https://busytoddler.com/wp-content/uploads/2020/03/bigkid-activities.jpg',
       price: 450,
       categorie_id:1,
+      order_id:3,
       createdAt: new Date,
       updatedAt: new Date
     }
